@@ -66,7 +66,6 @@ I specialize in building tools that solve actual problems, from managing high-vo
 ### 📫 Contact & Socials
 
 * **Email:** tomijeroj941@gmail.com 
-* **LinkedIn:** [linkedin.com/in/tomas-ojeda](https://linkedin.com/in/tomas-ojeda)
 * **Location:** San Rafael, Mendoza, Argentina 🇦🇷 
 
 ---
