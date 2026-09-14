@@ -4,7 +4,7 @@
 
 Full-stack developer with formal training in cybersecurity, specializing in secure software architecture, production-grade backend systems, and threat analysis. Currently pursuing a **University Diploma in Cybersecurity** at UTN, with hands-on experience in cryptography, network security, and secure coding practices.
 
-[Portfolio](https://tomasojeda.dev) · [LinkedIn](https://www.linkedin.com/in/tomas-ojeda-254500394/) · [Email](mailto:tomijeroj941@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tomas--ojeda.dev-00ff00?style=flat-square&logo=github&logoColor=white)](https://tomas-ojeda.github.io) · [LinkedIn](https://www.linkedin.com/in/tomas-ojeda-254500394/) · [Email](mailto:tomijeroj941@gmail.com)
 
 ---
 
@@ -217,11 +217,10 @@ I'm always interested in discussing:
 - Open-source contributions
 
 **Reach out:**
-- 📧 Email: tomijeroj941@gmail.com
-- 💼 LinkedIn: [Tomas Ojeda](https://www.linkedin.com/in/tomas-ojeda-254500394/)
-- 🔗 Portfolio: [tomasojeda.dev](https://tomas-ojeda.dev)
-- 💻 GitHub: [@Tomas-Ojeda](https://github.com/Tomas-Ojeda)
-
+- 📧 **Email:** tomijeroj941@gmail.com
+- 💼 **LinkedIn:** [Tomás Ojeda](https://www.linkedin.com/in/tomas-ojeda-254500394/)
+- 🔗 **Portfolio:** [tomas-ojeda.github.io](https://tomas-ojeda.github.io) · *Custom domain coming soon*
+- 💻 **GitHub:** [@Tomas-Ojeda](https://github.com/Tomas-Ojeda)
 ---
 
 **Last updated:** September 2026
