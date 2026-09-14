@@ -4,7 +4,7 @@
 
 Full-stack developer with formal training in cybersecurity, specializing in secure software architecture, production-grade backend systems, and threat analysis. Currently pursuing a **University Diploma in Cybersecurity** at UTN, with hands-on experience in cryptography, network security, and secure coding practices.
 
-[Portfolio](https://tomasojeda.dev) · [LinkedIn](https://linkedin.com/in/tomas-ojeda) · [Email](mailto:tomijeroj941@gmail.com)
+[Portfolio](https://tomasojeda.dev) · [LinkedIn](https://www.linkedin.com/in/tomas-ojeda-254500394/) · [Email](mailto:tomijeroj941@gmail.com)
 
 ---
 
@@ -218,7 +218,7 @@ I'm always interested in discussing:
 
 **Reach out:**
 - 📧 Email: tomijeroj941@gmail.com
-- 💼 LinkedIn: [Tomás Ojeda](https://linkedin.com/in/tomas-ojeda)
+- 💼 LinkedIn: [Tomás Ojeda](https://www.linkedin.com/in/tomas-ojeda-254500394/)
 - 🔗 Portfolio: [tomasojeda.dev](https://tomas-ojeda.dev)
 - 💻 GitHub: [@Tomas-Ojeda](https://github.com/Tomas-Ojeda)
 
