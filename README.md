@@ -1,6 +1,6 @@
-# Tomás Ojeda
+# Tomas Ojeda
 
-**Software Developer | Backend Engineer | CyberSecurity Enthusiast**
+**Full Stack Developer Freelance | Python & Django Specialist | Advanced Systems Engineering Student (UTN FRSR) | Advanced English | Enterprise Software Development | Cybersecurity Enthusiast**
 
 Full-stack developer specializing in production-grade backend systems, containerized applications, and cloud infrastructure. Passionate about secure software architecture, clean code, and machine learning systems.
 
