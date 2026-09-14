@@ -218,7 +218,7 @@ I'm always interested in discussing:
 
 **Reach out:**
 - 📧 Email: tomijeroj941@gmail.com
-- 💼 LinkedIn: [Tomás Ojeda](https://www.linkedin.com/in/tomas-ojeda-254500394/)
+- 💼 LinkedIn: [Tomas Ojeda](https://www.linkedin.com/in/tomas-ojeda-254500394/)
 - 🔗 Portfolio: [tomasojeda.dev](https://tomas-ojeda.dev)
 - 💻 GitHub: [@Tomas-Ojeda](https://github.com/Tomas-Ojeda)
 
