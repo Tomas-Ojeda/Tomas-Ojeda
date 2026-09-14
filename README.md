@@ -1,42 +1,49 @@
 # Tomas Ojeda
 
-**Python & Django Specialist | Advanced Systems Engineering Student (UTN FRSR) | Enterprise Software Development | Cybersecurity Enthusiast**
+**Software Developer | CyberSecurity Student | Backend Engineer**
 
-Full-stack developer specializing in production-grade backend systems, containerized applications, and cloud infrastructure. Passionate about secure software architecture, clean code, and machine learning systems.
+Full-stack developer with formal training in cybersecurity, specializing in secure software architecture, production-grade backend systems, and threat analysis. Currently pursuing a **University Diploma in Cybersecurity** at UTN, with hands-on experience in cryptography, network security, and secure coding practices.
 
-[Portfolio](https://tomasojeda.dev) · [LinkedIn](https://www.linkedin.com/in/tomas-ojeda-254500394/) · [Email](mailto:tomijeroj941@gmail.com)
+[Portfolio](https://tomasojeda.dev) · [LinkedIn](https://linkedin.com/in/tomas-ojeda) · [Email](mailto:tomijeroj941@gmail.com)
 
 ---
 
 ##  Aspirational Roles
 
-**Backend Engineer** · **Software Architect** · **CyberSecurity Engineer** · **ML Engineer**
+**CyberSecurity Engineer** · **Software Architect** · **Backend Engineer** · **Secure Software Developer** · **ML Engineer**
 
-I'm driven to build robust, secure, and scalable software systems. My primary focus is backend development with a strong emphasis on:
-- Enterprise-grade systems with regulatory compliance (RGPD, data protection laws)
-- Secure software architecture and threat modeling
+I'm driven to build **secure, robust, and scalable software systems**. With formal cybersecurity training, my primary focus is:
+- **Secure software architecture** and threat modeling
+- **CyberSecurity engineering** with compliance (RGPD, Argentina's data protection laws)
+- Production-grade backend systems with security at the core
 - Machine learning pipelines and MLOps
-- Cloud-native applications and DevOps
+- Cloud-native applications with security best practices
 
 ---
 
 ##  About Me
 
-Advanced Systems Engineering student at **Universidad Tecnológica Nacional (UTN)** - San Rafael, Mendoza.
+**Advanced Systems Engineering student** at Universidad Tecnológica Nacional (UTN) - San Rafael, Mendoza.
 
-I specialize in designing and implementing production-ready systems using **Django**, **PostgreSQL**, and **Docker**. My experience spans from building medical management systems compliant with Argentine data protection laws to architecting microservices with reverse proxies and automated deployment pipelines.
+**Cybersecurity Diploma student** at UTN - San Rafael (Started: August 2026 | Ends: December 2026)
+
+I specialize in designing **secure, production-ready systems** using **Django**, **PostgreSQL**, and **Docker**. My experience spans from building medical management systems compliant with Argentine data protection laws (Ley 25326) to architecting microservices with security-first principles.
+
+**Current focus:** Integrating cybersecurity knowledge into software development. Learning cryptography, network security, threat modeling, and secure coding practices to build systems that are not only scalable but **inherently secure from design phase**.
 
 I'm committed to:
+- **Secure Architecture**: Threat modeling, secure design patterns, defense-in-depth
 - **Clean Architecture**: SOLID, DRY, KISS, YAGNI principles
 - **Test-Driven Development**: F.I.R.S.T methodology, pytest, comprehensive test coverage
-- **Security-First**: HTTPS, auditing, role-based access control, data encryption
-- **DevOps Excellence**: Docker Compose, Traefik, CI/CD pipelines, monitoring
+- **Security-First Development**: Encryption, authentication, authorization, secure data handling
+- **DevOps with Security**: Docker Compose, Traefik, CI/CD pipelines, security monitoring
+- **Cybersecurity Practices**: Cryptography, network security, secure protocols, threat analysis
 
-My goal is to become a **Software Architect** capable of designing secure, scalable systems that solve real business problems while maintaining the highest standards of code quality and security.
+My goal is to become a **Secure Software Architect** capable of designing enterprise-grade systems that solve real business problems while maintaining the highest standards of code quality, security, and compliance.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3.10+-3776ab?style=flat-square&logo=python&logoColor=white)
@@ -63,6 +70,11 @@ My goal is to become a **Software Architect** capable of designing secure, scala
 ![pytest](https://img.shields.io/badge/pytest-Latest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-F.I.R.S.T-brightgreen?style=flat-square)
 ![Clean Code](https://img.shields.io/badge/Clean%20Code-SOLID%2FDRY%2FKISS-blue?style=flat-square)
+
+### CyberSecurity & Cryptography
+![Cryptography](https://img.shields.io/badge/Cryptography-AES%2CRSA%2CTLS-red?style=flat-square)
+![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-STRIDE%2CTD-red?style=flat-square)
+![Network Security](https://img.shields.io/badge/Network%20Security-Essential-red?style=flat-square)
 
 ### Tools & IDEs
 ![VS Code](https://img.shields.io/badge/VS%20Code-Latest-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -102,7 +114,7 @@ My goal is to become a **Software Architect** capable of designing secure, scala
 
 ##  Featured Projects
 
-### Centro Médico Integral 🏥
+### Centro Médico Integral 
 **Production-grade medical records management system for Argentine healthcare facilities**
 
 A comprehensive system for managing medical histories, appointments, patients, and healthcare professionals. Compliant with Argentine data protection laws (Ley 25326, Ley 26388).
@@ -140,23 +152,48 @@ A full-stack system for extracting and processing text from various document for
 
 ---
 
-##  Academic Background
+##  Education & Training
+
+###  University Education
 
 **Systems Engineering Student** - Universidad Tecnológica Nacional (UTN), San Rafael, Mendoza
-
-**Course: Desarrollo de Software (Software Development)**
-- Software architecture and design patterns
-- Full-stack development
-- DevOps and containerization
+- Advanced software architecture and design patterns
+- Full-stack development and backend systems
+- DevOps and containerization practices
 - Team-based software engineering
+- Database design and normalization
+- Operating systems and network fundamentals
 
-**Skills & Knowledge:**
-- Software architecture
-- Database design & normalization
-- Operating systems fundamentals
+###  Cybersecurity Training
+
+**University Diploma in Cybersecurity** - UTN San Rafael (Aug 2026 - Dec 2026)
+- Cryptography and encryption algorithms (AES, RSA, TLS)
+- Network security and protocols
+- Threat modeling and vulnerability analysis
+- Secure coding practices
+- Authentication and authorization systems
+- Digital forensics and incident response
+- Security compliance and risk management
+- Ethical hacking fundamentals
+
+###  Additional Training
+
+**Video Game Development Course**
+- Game architecture and design
+- Graphics and physics programming
+- Game engines and frameworks
+- Team collaboration in game production
+
+###  Technical Knowledge
+
+- Software architecture and design patterns
+- Cryptographic protocols and implementations
+- Network security protocols (TLS, SSH, VPN)
+- Authentication mechanisms (OAuth, JWT, MFA)
+- Database security and encryption
+- Operating systems security
 - Algorithms & data structures
-- Network protocols & security basics
-- Cloud-native development
+- Cloud-native security practices
 
 ---
 
@@ -182,9 +219,10 @@ I'm always interested in discussing:
 **Reach out:**
 - 📧 Email: tomijeroj941@gmail.com
 - 💼 LinkedIn: [Tomás Ojeda](https://linkedin.com/in/tomas-ojeda)
-- 🔗 Portfolio: [tomasojeda.dev](https://tomasojeda.dev)
+- 🔗 Portfolio: [tomasojeda.dev](https://tomas-ojeda.dev)
 - 💻 GitHub: [@Tomas-Ojeda](https://github.com/Tomas-Ojeda)
 
 ---
 
 **Last updated:** September 2026
+
